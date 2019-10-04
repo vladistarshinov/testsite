@@ -1,34 +1,26 @@
-header {
-    height: 68px;
-    border: 1px solid #b5b7ba;
+.header {
+    border-width: 0.14px;
+    border-color: #b5b7ba;
+    border-style: solid;
     background-color: #dfdfdf;
+    height: 48px;
+    text-align: center;
+    padding-top: 20px;
 }
 
-header a {
-
+.header a {
+   color: #4d4d4d;
+   font-size: 20px;
+   font-weight: 100;
+    padding-right: 25px;
 }
 
-h1 {
-
-}
-
-main {
-
-}
-
-main img {
-
-}
-
-main p {
-
-}
-
-main br {
-
-}
-
-footer {
-    height: 120 px;
+.footer{
     background-color: #434445;
+    height: 80px;
+    padding-top: 60px;
+    color: #a4a4a4;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
 }
